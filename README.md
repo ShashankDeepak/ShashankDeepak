@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shashankdeepak3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kmkKJPd6hF06GmkQAon3FLxXb61kN98J/view?usp=sharing](https://drive.google.com/file/d/1kmkKJPd6hF06GmkQAon3FLxXb61kN98J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kmkKJPd6hF06GmkQAon3FLxXb61kN98J/view?usp=drive_link)
 
 - ⚡ Fun fact **I randomly crack funny jokes**
 
