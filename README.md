@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="shashankdeepak" /> </p>
 
-- 🔭 I’m currently working on [OpenSource-API](https://github.com/ShashankDeepak/opensource-api)
+- 🔭 I’m currently working on [Small Dart](https://github.com/ShashankDeepak/smalldart-web)
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
-- 💬 Ask me about **Flutter, Java, Spring**
+- 💬 Ask me about **Flutter, Java, Spring, TypeScript**
 
 - 📫 How to reach me **shashankdeepak3@gmail.com**
 
